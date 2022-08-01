@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.ieeeiuc.gezgin.OBBDownloaderService;
-import com.ieeeiuc.gezgin.DownloaderActivity;
+import com.YourCompany.gezgin.OBBDownloaderService;
+import com.YourCompany.gezgin.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.ieeeiuc.gezgin.OBBData;
+import com.YourCompany.gezgin.OBBData;
 
 
 public class DownloadShim

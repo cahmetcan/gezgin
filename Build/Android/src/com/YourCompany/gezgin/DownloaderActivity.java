@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ieeeiuc.gezgin;
+package com.YourCompany.gezgin;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ieeeiuc.gezgin;
+package com.YourCompany.gezgin;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

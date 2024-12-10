@@ -1,5 +1,5 @@
 # gezgin
 
-Merhaba
+TEKNOFEST Turizm Teknolojileri Yarışması Finalisti
 
 Developed with Unreal Engine 4
